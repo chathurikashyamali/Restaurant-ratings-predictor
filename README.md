@@ -1,4 +1,3 @@
-﻿# Restaurant-ratings-predictor
 # 🍽️ Restaurant Ratings Predictor
 
 This project involves building a **machine learning model** to predict restaurant ratings based on various features such as **location, cuisines, cost, and delivery options**. A **Streamlit** web app was also developed to provide a user-friendly interface for interacting with the model.
