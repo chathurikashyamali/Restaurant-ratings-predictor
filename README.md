@@ -20,7 +20,7 @@ This project involves building a **machine learning model** to predict restauran
 
 ---
 
-## 📷 App Demo (Optional GIF or Screenshot)
+## 📷 App Demo 
 > *![image](https://github.com/user-attachments/assets/d37b8418-4808-4eaa-8ac1-d841541e2060)
 *
 
