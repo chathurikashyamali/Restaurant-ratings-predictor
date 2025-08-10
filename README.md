@@ -2,6 +2,8 @@
 
 This project involves building a **machine learning model** to predict restaurant ratings based on various features such as **location, cuisines, cost, and delivery options**. A **Streamlit** web app was also developed to provide a user-friendly interface for interacting with the model.
 
+🔗https://restaurantratingspredict.streamlit.app/
+
 ---
 
 ## 🚀 Overview
@@ -41,4 +43,5 @@ This project involves building a **machine learning model** to predict restauran
    ```bash
    git clone https://github.com/chathurikashyamali/Restaurant-ratings-predictor.git
    cd Restaurant-ratings-predictor
+
 
